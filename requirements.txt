@@ -1,0 +1,7 @@
+streamlit
+pandas
+# re
+datetime
+pymango
+sqlalchemy
+google-api-python-client
